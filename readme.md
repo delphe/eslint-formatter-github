@@ -66,4 +66,4 @@ Once you have generated a key, open the file that is downloaded and copy to text
 
 To get this package to work on github enterprise instances you will need to set the `GH_API` environment variable to a url pointing towards your enterprise GitHub's API.
 
-# Test 2
+# Test 3
